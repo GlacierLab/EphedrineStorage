@@ -1,0 +1,10 @@
+{
+  "Name":"7Zip",
+  "Files":[
+    "7za.exe"
+  ],
+  "Dependent":[],
+  "Version":"21.07",
+  "Link":"https://cdn.cloudflare.ephedrine.qinlili.bid/Plugin/7Zip/2107.zip",
+  "Source":"https://www.7-zip.org/download.html"
+}
